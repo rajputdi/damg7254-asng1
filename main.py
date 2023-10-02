@@ -3,7 +3,7 @@ from modules import uploader
 
 
 def main():
-    st.title("BIG DATA SYSTEMS AND INTELLIGENCE ANALYTICS-ASSIGNMENT 1 (Part 2)")
+    st.title("APP PART 2(data profiling, great expectations) (Part 2)")
 
     st.write("Upload a file for this session:")
     uploaded_file = uploader.file_uploader()
